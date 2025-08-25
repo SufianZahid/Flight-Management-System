@@ -1,0 +1,32 @@
+🔹 Title
+Airline Management System – Flight & Booking Manager in C++
+
+🔹 Description
+A console-based airline reservation and management system built in C++.
+It provides two main modules:
+
+Admin Panel – add/delete flights, list all flights, and view passenger bookings.
+
+User Panel – view flights, book tickets (Economy / First Class), cancel bookings.
+
+Key highlights include:
+
+Passenger detail validation (CNIC, DOB, Mobile formats).
+
+Seat allocation & restoration (Economy vs First Class).
+
+Automatic saving of bookings to bookings.txt.
+
+Menu-driven console interface for easy navigation.
+
+🔹 Skills Showcased
+
+Data Structures (Vectors)
+
+File Handling & Data Persistence
+
+Input Validation & Error Handling
+
+Structured Programming & Modular Design (C++)
+
+Console-based User Interface
